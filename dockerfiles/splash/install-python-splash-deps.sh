@@ -10,7 +10,7 @@ install_python_deps () {
         "Twisted[http2]==19.7.0" \
         adblockparser==0.7 \
         xvfbwrapper==0.2.9 \
-        funcparserlib==0.3.6 \
+        funcparserlib=="1.0.0a0" \
         Pillow==5.4.1 \
         attrs==18.2.0 \
         lupa==1.3 && \
